@@ -1,5 +1,6 @@
 *.hex
 *.ld
 *.o
+*.exe
 *.txt
 *Verify
